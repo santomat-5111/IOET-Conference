@@ -16,7 +16,7 @@ button {
 input {
   padding: .25rem 0;
   border: 0;
-  border-bottom: 1px solid #bb1515;
+  border-bottom: 1px solid #90CAF9;
   outline: 0;
   background: transparent;
   color: #fff;
@@ -115,6 +115,7 @@ input:focus + label .nav-dot:before {
   transition: opacity .25s .5s;
 }
 
+.general,
 .signup-button,
 .signup-button-trigger {
   position: fixed;
@@ -181,7 +182,7 @@ input:focus + label .nav-dot:before {
   height: .625rem;
   margin-top: -.125rem;
   margin-left: -.125rem;
-  background-color: #a41212;
+  background-color: #90CAF9;
 }
 
 label[for="input-1"] .nav-dot {
